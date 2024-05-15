@@ -1,3 +1,3 @@
 # playablepiano
 
-ain't nobody know what's goin' on in here
+An admirable project, but other things have taken precedence.
